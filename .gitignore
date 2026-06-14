@@ -1,0 +1,20 @@
+# Virtual environments
+myenv/
+newenv/
+
+# Python
+config/
+__pycache__/
+*.pyc
+test.py
+
+reviews_analysis_model/
+# Node (if there's a separate node_modules at root)
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# OS
+.DS_Store
