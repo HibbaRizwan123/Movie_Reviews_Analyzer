@@ -1,8 +1,7 @@
-# Virtual environments
+
 myenv/
 newenv/
 
-# Python
 config/
 __pycache__/
 *.pyc
