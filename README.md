@@ -40,7 +40,7 @@ Additionally, class weights were applied during fine-tuning to penalize the mode
 ## 🤗 Fine-tuned Model
 The fine-tuned model is publicly available on Hugging Face. You can download or use it directly in your own projects.
 
-👉 [Movie Reviews Sentiment Model on Hugging Face](https://huggingface.co/hibbariz/movieReview_analysis_model)
+👉 [Movie Review Analysis Model on Hugging Face](https://huggingface.co/hibbariz/movieReview_analysis_model)
 
 
 ## 🚀 How to Run Locally
