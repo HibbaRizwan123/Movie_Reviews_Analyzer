@@ -35,7 +35,11 @@ Both minority classes were augmented to 200 samples each resulting in a final da
 Additionally, class weights were applied during fine-tuning to penalize the model heavily for misclassifying minority classes, adding a second layer of bias prevention at the training level.
 
 ## 📊 Model Performance
-
+- Accuracy | 84%
+### F1 Score
+- Positive | 90%
+- Negative | 81%
+- Neutral | 68%
 
 ## 🤗 Fine-tuned Model
 The fine-tuned model is publicly available on Hugging Face. You can download or use it directly in your own projects.
