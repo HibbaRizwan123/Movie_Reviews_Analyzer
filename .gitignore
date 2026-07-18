@@ -2,8 +2,6 @@
 myenv/
 newenv/
 
-config/
-__pycache__/
 *.pyc
 test.py
 
